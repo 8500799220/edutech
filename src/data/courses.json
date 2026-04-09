@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "React Basics",
+    "instructor": "John",
+    "duration": "4 weeks",
+    "category": "Frontend",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Advanced React",
+    "instructor": "John",
+    "duration": "6 weeks",
+    "category": "Frontend",
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "name": "Node JS",
+    "instructor": "David",
+    "duration": "6 weeks",
+    "category": "Backend",
+    "rating": 4.2
+  },
+  {
+    "id": 4,
+    "name": "Express JS",
+    "instructor": "David",
+    "duration": "5 weeks",
+    "category": "Backend",
+    "rating": 4.3
+  },
+  {
+    "id": 5,
+    "name": "MongoDB Basics",
+    "instructor": "Sara",
+    "duration": "3 weeks",
+    "category": "Database",
+    "rating": 4.1
+  },
+  {
+    "id": 6,
+    "name": "Full Stack Development",
+    "instructor": "Alex",
+    "duration": "8 weeks",
+    "category": "Fullstack",
+    "rating": 4.8
+  },
+  {
+    "id": 7,
+    "name": "HTML & CSS",
+    "instructor": "Mike",
+    "duration": "2 weeks",
+    "category": "Frontend",
+    "rating": 4.0
+  },
+  {
+    "id": 8,
+    "name": "JavaScript Advanced",
+    "instructor": "Mike",
+    "duration": "5 weeks",
+    "category": "Frontend",
+    "rating": 4.6
+  }
+]
